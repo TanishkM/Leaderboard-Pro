@@ -22,7 +22,3 @@ How do people become good at something ? By doing it regularly, right ? That's w
     make dev
     ```
 - Visit http://localhost:8000/ and http://localhost:3000/
-
-## Maintainers
-- [Gopal Ramesh Dahale](https://github.com/Gopal-Dahale)
-- [Kumar Shivendu](https://github.com/KShivendu)
