@@ -3,7 +3,7 @@ alabaster==0.7.12
 amqp==5.1.1
 appdirs==1.4.4
 apt-xapian-index==0.49
-asgiref==3.3.4
+asgiref==3.7.2
 astunparse==1.6.3
 async-timeout==4.0.2
 attrs==21.2.0
@@ -48,7 +48,7 @@ distlib==0.3.6
 distro==1.7.0
 distro-info==1.1+ubuntu0.1
 dj-database-url==2.1.0
-Django==3.2.4
+Django==4.0.0
 django-celery-beat==2.3.0
 django-cors-headers==3.7.0
 django-rest-knox==4.2.0
